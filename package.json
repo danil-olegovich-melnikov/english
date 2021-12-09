@@ -2,17 +2,28 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://danil-olegovich-melnikov.github.io/english/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "cheerio": "*",
+    "gh-pages": "^3.2.3",
+    "puppeteer": "^10.1.0",
     "react": "^17.0.2",
+    "react-axios": "^2.0.5",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "reverso-api": "^2.17.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

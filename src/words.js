@@ -1,0 +1,72 @@
+export default function words() {
+    return (
+        "Abroad\n" +
+        "Address\n" +
+        "Already\n" +
+        "Although\n" +
+        "Asked\n" +
+        "At that time\n" +
+        "Beautiful\n" +
+        "Better\n" +
+        "Blue\n" +
+        "Blouse\n" +
+        "Borrow\n" +
+        "Bought\n" +
+        "Caught\n" +
+        "Chocolate\n" +
+        "Coat\n" +
+        "Comedy\n" +
+        "Could\n" +
+        "Deserved\n" +
+        "Dramatical\n" +
+        "During\n" +
+        "Earn\n" +
+        "Extrovert\n" +
+        "Eyes\n" +
+        "Favorite\n" +
+        "Hair\n" +
+        "Hear\n" +
+        "Heart\n" +
+        "Horrible\n" +
+        "Horror\n" +
+        "Idealistic\n" +
+        "Impossible\n" +
+        "Incredible\n" +
+        "Jealous\n" +
+        "Manager\n" +
+        "Murdered\n" +
+        "Musician\n" +
+        "Mustn’t\n" +
+        "Offer\n" +
+        "Owl\n" +
+        "Party\n" +
+        "Person\n" +
+        "Pessimist\n" +
+        "Photographer\n" +
+        "Quite\n" +
+        "Recently\n" +
+        "Re-named\n" +
+        "Said\n" +
+        "Saw\n" +
+        "Saying\n" +
+        "Says\n" +
+        "Something\n" +
+        "Stomach\n" +
+        "Suddenly\n" +
+        "The third\n" +
+        "Third\n" +
+        "Thought\n" +
+        "Thriller\n" +
+        "Throw\n" +
+        "Variety\n" +
+        "Vegetables\n" +
+        "Walk\n" +
+        "Whose\n" +
+        "Won’t\n" +
+        "Word\n" +
+        "Wore\n" +
+        "Written\n" +
+        "Wrote\n" +
+        "YouTube\n"
+    )
+}
